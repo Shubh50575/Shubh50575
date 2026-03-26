@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 🔭 Building AI/ML projects and strengthening Data Structures & Algorithms.<br><br>👯 Open-source AI projects, hackathons, and real-world problem-solving applications.<br><br>🤝 Advanced Machine Learning concepts and deploying scalable AI models.<br><br>🌱 Machine Learning, Deep Learning, and improving problem-solving in DSA.<br><br>💬 Python, AI/ML basics, DSA, and project development.<br><br>⚡ I enjoy turning real-world problems into practical AI solutions 🚀
 
